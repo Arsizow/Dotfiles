@@ -17,4 +17,5 @@ Void:
 `sudo xbps-install -S mangowc awww fish-shell zathura zathura-cb zathura-pdf-mupdf nautilus waybar alacritty fuzzel dunst wl-clipboard grim wal fastfetch nerd-fonts`
 
 #### Showcase
-![[./showcase/README-1794071410318.webp]]![[./showcase/README-1794071414271.webp]]
+![[README-1794071410318.webp]]
+![[README-1794071414271.webp]]
