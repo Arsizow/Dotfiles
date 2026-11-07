@@ -19,3 +19,4 @@ Void:
 #### Showcase
 ![desktop](./showcase/20261107171705.png)
 ![obsidian](./showcase/20261107170809.png)
+![fastfetch](./showcase/20261107183034.png)
