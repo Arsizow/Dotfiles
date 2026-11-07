@@ -1,15 +1,15 @@
 # Dots
 Personal dots for mango and some apps
-`
+
 ### Applications
-compositor: mangowm
-top bar: waybar
-notifications: dunst
-terminal: alacritty
-shell: fish
-note editor: obsidian
-wallpaper: awww
-waybar, etc: Terminess Nerd Font Mono
+compositor: mangowm<br>
+top bar: waybar<br>
+notifications: dunst<br>
+terminal: alacritty<br>
+shell: fish<br>
+note editor: obsidian<br>
+wallpaper: awww<br>
+waybar, etc: Terminess Nerd Font Mono<br>
 
 
 #### Dependancies
@@ -17,5 +17,5 @@ Void:
 `sudo xbps-install -S mangowc awww fish-shell zathura zathura-cb zathura-pdf-mupdf nautilus waybar alacritty fuzzel dunst wl-clipboard grim wal fastfetch nerd-fonts`
 
 #### Showcase
-![[20261107170809.png]]
-![[20261107171705.png]]
+![desktop](./showcase/20261107171705.png)
+![obsidian](./showcase/20261107170809.png)
