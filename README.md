@@ -9,13 +9,13 @@ terminal: alacritty<br>
 shell: fish<br>
 note editor: obsidian<br>
 wallpaper: awww<br>
-terminal palette: wal<br>
+terminal palette: pywal<br>
 waybar, etc: Terminess Nerd Font Mono<br>
 
 
 #### Dependancies
 Void:
-`sudo xbps-install -S mangowc awww fish-shell zathura zathura-cb zathura-pdf-mupdf nautilus waybar alacritty fuzzel dunst wl-clipboard grim fastfetch nerd-fonts`
+`sudo xbps-install -S mangowc awww fish-shell zathura zathura-cb zathura-pdf-mupdf nautilus waybar alacritty fuzzel dunst wl-clipboard grim fastfetch pywal nerd-fonts`
 
 #### Showcase
 ![desktop](./showcase/20261107171705.png)
