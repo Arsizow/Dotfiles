@@ -9,6 +9,7 @@ terminal: alacritty<br>
 shell: fish<br>
 note editor: obsidian<br>
 wallpaper: awww<br>
+terminal palette: wal<br>
 waybar, etc: Terminess Nerd Font Mono<br>
 
 
